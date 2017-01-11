@@ -30,3 +30,8 @@ it meakes only one branch witch changes from two paths. We want to know what bra
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+pros 
+automatic can save time
+cons
+can meake a bug
