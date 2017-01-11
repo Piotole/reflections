@@ -1,10 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+its create a reposytori of a new project. i want to have a reposytory of new project
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Working directory consist of all files realted to a project and staging area contain only those witch i want to commit. I can manipulate files in staging area and comitt only those one witch i want to commit
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+I can compare files to see if iv made any changes and if i made i can check if it was 
+only one logical chang. If not, i can change my staging area and meake more commits
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
